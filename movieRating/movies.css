@@ -1,0 +1,78 @@
+
+
+#container{
+    background-image:linear-gradient(darkblue,black);
+    height:900px;
+
+}
+
+title{
+    text-align:center;
+    margin-top:20px;
+    
+}
+
+
+body h1{
+    text-align:center;
+    color:white;
+    font-size:30px;
+    font-weight:bold;
+    padding:15px;
+}
+
+
+
+
+#movie-form{
+ 
+    text-align:center;
+
+}
+
+
+#movie_table th {
+color:white;
+padding:50px;
+background-color:#23395d;
+}
+#movie_table{
+    display:flex;
+    justify-content:center;
+    /*margin-top:100px;
+    margin-left:265px;
+    */
+    border:10px solid white;
+    
+   
+}
+
+#movie{
+    padding:20px;
+    border-radius:5px;
+
+}
+
+#rating{
+    padding:15px;
+    border-radius:5px;
+}
+
+input[type="number"]{
+    font-size:20px;
+}
+
+input[type="text"]{
+    font-size:20px;
+}
+td{
+    color:black; 
+    font-size:15px;
+    text-align:center;
+    background-color:#F7F3CF;
+}
+
+
+label{
+    color:white;
+}
